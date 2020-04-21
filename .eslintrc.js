@@ -1,9 +1,13 @@
 module.exports = {
   root: true,
   env: {
-    node: true
+    node: true,
+    es6: true
   },
-  'extends': [
+  globals: {
+    'AMap': true
+  },
+  extends: [
     'plugin:vue/essential',
     'eslint:recommended'
   ],

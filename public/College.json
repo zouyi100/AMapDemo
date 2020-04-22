@@ -1,0 +1,313 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "上海电机学院临港校区",
+        "status": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.8806076049804,
+          30.890661492271246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "上海建桥学院临港校区",
+        "status": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.88841819763184,
+          30.893570839725577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "上海海洋大学临港校区",
+        "status": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.89298868179316,
+          30.886260475942663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "上海海事大学临港校区",
+        "status": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.9003486633301,
+          30.877439420233856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "上海电力大学临港校区",
+        "status": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.89103603363037,
+          30.90167235415215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "华东师范大学中山北路校区",
+        "status": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.40210151672363,
+          31.228582553103937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "上海应用技术大学",
+        "status": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4174652099609,
+          31.168012852920516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "华东理工大学",
+        "status": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4193534851074,
+          31.145096391821355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "东华大学松江校区",
+        "status": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.21044158935547,
+          31.057198652602306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "上海立信会计学院",
+        "status": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1946487426758,
+          31.049404461655996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "上海对外贸易大学",
+        "status": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.21323108673096,
+          31.048816194920956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "上海视觉艺术学院",
+        "status": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2014937400818,
+          31.04853125191397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "上海外国语大学松江校区",
+        "status": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.22061252593994,
+          31.04929416192014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "上海工程技术大学松江校区",
+        "status": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2008285522461,
+          31.05980882855371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "上海政法学院",
+        "status": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1707878112793,
+          31.113650695350678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "上海国家会计学院",
+        "status": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.28700256347656,
+          31.179762734371497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "上海交通大学闵行校区",
+        "status": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4315414428711,
+          31.027930370359982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "华东师范大学闵行校区",
+        "status": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4466476440429,
+          31.031754878046105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "同济大学",
+        "status": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.49677276611334,
+          31.284712517754805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "复旦大学",
+        "status": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.49917602539057,
+          31.30084828737045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "上海体育学院",
+        "status": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5211486816406,
+          31.313461601291273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "上海财经大学",
+        "status": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4915370941162,
+          31.30656848783488
+        ]
+      }
+    }
+  ]
+}
